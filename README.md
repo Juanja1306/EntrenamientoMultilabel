@@ -1,4 +1,4 @@
-# Proyecto de Análisis y Predicción de Imágenes
+# Análisis, Entrenamiento y Predicción de Imágenes
 
 ## Descripción General
 Este proyecto aborda el ciclo completo de análisis, entrenamiento y predicción utilizando un conjunto de imágenes. Cada parte del proyecto se desarrolla en un cuaderno Jupyter, que permite seguir paso a paso el proceso desde la exploración inicial de datos hasta la aplicación práctica de un modelo de aprendizaje automático para realizar predicciones.
